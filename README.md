@@ -16,3 +16,5 @@ Modern digital clock displays current system time in real time. It includes the 
 ### Credits
 - This project was made together with the video lesson of the Larissa Kich channel
 
+![digital](https://user-images.githubusercontent.com/98528661/221374750-301273df-827b-44df-95a9-4bde4432ff8e.PNG)
+
